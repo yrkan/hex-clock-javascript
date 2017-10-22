@@ -27,4 +27,4 @@ function hexClock() {
 }
 
 hexClock();
-setInterval(hexoClock, 1000);
+setInterval(hexClock, 1000);
